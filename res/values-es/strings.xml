@@ -8,5 +8,6 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_display_message">Mi mensaje</string>
     <string name="action_search">Buscar</string>
+    <string name="label_sua_mensagem">Tu mensaje:</string>
     
 </resources>

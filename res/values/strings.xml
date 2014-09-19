@@ -2,11 +2,12 @@
 <resources>
 
     <string name="app_name">Meu Aplicativo</string>
-    <string name="edit_message">Entre com a mensagem</string>
+    <string name="edit_message">Sua mensagem</string>
     <string name="button_send">Enviar</string>
     <string name="action_settings">Configuração</string>
     <string name="title_activity_main">Activity Principal</string>
     <string name="title_activity_display_message">Minha Mensagem</string>
     <string name="action_search">Pesquisar</string>
+    <string name="label_sua_mensagem">Sua Mensagem:</string>
 
 </resources>
