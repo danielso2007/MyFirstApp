@@ -14,5 +14,7 @@
         android:id="@+id/action_settings"
         android:showAsAction="never"
         android:title="@string/action_settings"/>
+    <item android:id="@+id/action_dataBase" android:title="@string/action_dataBase"></item>
+    <item android:id="@+id/action_process" android:title="@string/string_process"></item>
 
 </menu>

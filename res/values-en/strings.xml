@@ -9,5 +9,9 @@
     <string name="title_activity_display_message">My Message</string>
     <string name="action_search">Search</string>
     <string name="label_sua_mensagem">Your message:</string>
+    <string name="add_new">Add New</string>
+    <string name="delete_first">Delete First</string>
+    <string name="hello">Lista</string>
+     <string name="string_process">Processo</string>
 
 </resources>

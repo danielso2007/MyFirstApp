@@ -9,5 +9,14 @@
     <string name="title_activity_display_message">Minha Mensagem</string>
     <string name="action_search">Pesquisar</string>
     <string name="label_sua_mensagem">Sua Mensagem:</string>
+    <string name="action_dataBase">Data Base</string>
+    <string name="title_activity_test_database">Test Database Activity</string>
+    <string name="add_new">Adicionar</string>
+    <string name="delete_first">Deletar</string>
+    <string name="hello">Lista</string>
+    <string name="title_activity_progress_bar_view">ProgressBarView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="string_process">Processo</string>
+    <string name="String_load">Load</string>
 
 </resources>

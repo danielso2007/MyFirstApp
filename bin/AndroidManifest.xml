@@ -22,11 +22,27 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-            <!-- android:theme="@android:style/Theme.Dialog" -->
-            <!-- android:theme="@android:style/Theme.Translucent" -->
+        <!-- android:theme="@android:style/Theme.Dialog" -->
+        <!-- android:theme="@android:style/Theme.Translucent" -->
         <activity
             android:name=".DisplayMessageActivity"
             android:label="@string/title_activity_display_message"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myfirstapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TestDatabaseActivity"
+            android:label="@string/title_activity_test_database"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myfirstapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ProgressBarView"
+            android:label="@string/title_activity_progress_bar_view"
             android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
